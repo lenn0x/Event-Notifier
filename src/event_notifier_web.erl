@@ -1,10 +1,10 @@
-%% @author author <author@example.com>
-%% @copyright YYYY author.
+%% @author Chris Goffinet <cg@chrisgoffinet.com>
+%% @copyright 2009.
 
 %% @doc Web server for event_notifier.
 
 -module(event_notifier_web).
--author('Chris Goffinet <goffinet@digg.com>').
+-author('Chris Goffinet <cg@chrisgoffinet.com>').
 
 -export([start/1, stop/0, loop/1]).
 -define(TimeOut, 60).

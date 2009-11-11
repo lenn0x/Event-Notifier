@@ -1,5 +1,5 @@
-%% @author author <author@example.com>
-%% @copyright YYYY author.
+%% @author Chris Goffinet <cg@chrisgoffinet.com>
+%% @copyright 2009.
 
 %% @doc Callbacks for the event_notifier application.
 

@@ -1,3 +1,6 @@
+%% @author Chris Goffinet <cg@chrisgoffinet.com>
+%% @copyright 2009.
+
 -module(scribe).
 
 -include("scribe_thrift.hrl").
