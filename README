@@ -2,13 +2,13 @@ Event Notifier
 ========================
 Hybrid of Scribe server + HTTP Comet server using Mochiweb.
 
-Scribe port runs on 1463.
+Scribe port runs on 1464.
 HTTP port runs on 8888.
 
 Pre-alpha, just checking this in to get it released.
 
-You can forward messages to the daemon from scribe on port 1463. To subscribe to events:
+You can forward messages to the daemon from scribe to port 1464. To subscribe to events:
 
 http://localhost:8888/subscribe/<Scribe_Category_Name>
 
-You can also subscribe to multiple by seperating them by comma.
+You can also subscribe to multiple categories by seperating them by comma.
